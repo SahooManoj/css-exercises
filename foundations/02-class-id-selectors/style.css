@@ -1,0 +1,18 @@
+.para-class {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#div-id1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.font-adjust {
+    font-size: 24px;
+}
+
+#div-id2 {
+    background-color: green;
+    font-weight: bold;
+}
